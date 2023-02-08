@@ -1,0 +1,1 @@
+# This repo represent a simple Python program that performs arithmetic operations based on the user input and extend the functions of the the calculator to save and display the past results of the arithmetic operation.
